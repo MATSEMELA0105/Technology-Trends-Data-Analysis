@@ -146,20 +146,11 @@ The repository contains the following project materials:
 technology-trends-data-analysis/
 │
 ├── README.md
-├── data/
-│   └── survey_data_updated.csv
-│
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── dashboards/
-│   └── dashboard_screenshots/
-│
-├── visualizations/
-│   └── charts/
-│
-└── presentation/
-    └── technology_trends_presentation.pptx
+├── data
+├── notebooks
+├── dashboards
+├── visualizations
+└── presentation
 ```
 
 *The file and folder names can be adjusted to match the actual files uploaded to this repository.*
